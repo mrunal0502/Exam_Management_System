@@ -21,9 +21,9 @@ This is a Spring Boot-based Exam Management System. It provides functionalities 
    git clone https://github.com/mrunal0502/Exam_Management_System.git
 
 ## Screenshots
-![Screenshot 1](Images/index.png)
-![Screenshot 2](Images/teacherLogin.png)
-![Screenshot 2](images/viewexam.png)
+![Screenshot 1](Images/index.PNG)
+![Screenshot 2](Images/teacherLogin.PNG)
+![Screenshot 2](images/viewexam.PNG)
 
 
 ##Contributing
