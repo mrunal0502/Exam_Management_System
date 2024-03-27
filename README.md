@@ -23,7 +23,7 @@ This is a Spring Boot-based Exam Management System. It provides functionalities 
 ## Screenshots
 ![Screenshot 1](Images/index.PNG)
 ![Screenshot 2](Images/teacherLogin.PNG)
-![Screenshot 2](images/viewexam.PNG)
+![Screenshot 2](Images/viewexam.PNG)
 
 
 ##Contributing
