@@ -26,5 +26,5 @@ This is a Spring Boot-based Exam Management System. It provides functionalities 
 ![Screenshot 2](Images/viewexam.PNG)
 
 
-##Contributing
+## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
